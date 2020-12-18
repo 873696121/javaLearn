@@ -15,6 +15,8 @@ import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
+// 爬取新浪的新闻
+
 public class MilitaryProcessor implements PageProcessor {
 
     private static final String url = "http://mil.news.sina.com.cn/roll/index.d.html?cid=57919&page=1";
