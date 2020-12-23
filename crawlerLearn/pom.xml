@@ -9,11 +9,11 @@
         <module>webmagic-job</module>
     </modules>
 
-<!--    <parent>-->
-<!--        <groupId>org.springframework.boot</groupId>-->
-<!--        <artifactId>spring-boot-starter-parent</artifactId>-->
-<!--        <version>2.0.2.RELEASE</version>-->
-<!--    </parent>-->
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.0.2.RELEASE</version>
+    </parent>
 
     <groupId>org.example</groupId>
     <artifactId>crawlerLearn</artifactId>
