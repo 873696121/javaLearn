@@ -1,4 +1,4 @@
-package huhong.string;
+package huhong.api.string;
 
 import java.util.Scanner;
 

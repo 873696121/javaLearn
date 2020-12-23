@@ -1,4 +1,4 @@
-package huhong.string;
+package huhong.api.string;
 
 public class StringDemo1 {
     public static void main(String[] args) {
